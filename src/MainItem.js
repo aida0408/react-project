@@ -6,7 +6,8 @@ function MainItem() {
             <div className="main-item">
             <h4 className="main-item-title">LOREM IPSUM</h4>
             <p className="main-item-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                tempor.</p>
+                tempor.
+            </p>
             <div className="main-item-icon">
                 <svg width="11" height="9" viewBox="0 0 11 9" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <path
